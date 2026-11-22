@@ -1,0 +1,11 @@
+{
+  "name": "wireup",
+  "version": "1.0.0",
+  "description": "Your own WhatsApp in Gemini CLI: catch up on chats, search old messages, open photos and voice notes, and draft replies you approve before anything is sent.",
+  "mcpServers": {
+    "wireup": {
+      "httpUrl": "https://wireup.chat/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
